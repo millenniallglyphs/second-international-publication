@@ -1,0 +1,367 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSansCond-Bold
+FamilyName:IBM Plex Sans Condensed
+StyleName:Bold
+MenuName:IBM Plex Sans Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:IBM Plex Sans Condensed Bold
+WritingScript:Roman
+OutlineFileName:\IBMPlexSansCond Bold.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:109536
+FileModTime:1520812800
+NameArray:0,Mac,4,IBM Plex Sans Condensed Bold
+NameArray:0,Win,1,IBM Plex Sans Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSansCond-BoldItalic
+FamilyName:IBM Plex Sans Condensed
+StyleName:Bold Italic
+MenuName:IBM Plex Sans Condensed
+StyleBits:3
+WeightClass:700
+WidthClass:3
+AngleClass:1
+FullName:IBM Plex Sans Condensed Bold Italic
+WritingScript:Roman
+OutlineFileName:\IBMPlexSansCond BoldItalic.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:113816
+FileModTime:1520812800
+NameArray:0,Mac,4,IBM Plex Sans Condensed Bold Italic
+NameArray:0,Win,1,IBM Plex Sans Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSansCond
+FamilyName:IBM Plex Sans Condensed
+StyleName:Regular
+MenuName:IBM Plex Sans Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:IBM Plex Sans Condensed
+WritingScript:Roman
+OutlineFileName:\IBMPlexSansCond.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:108212
+FileModTime:1520812800
+NameArray:0,Mac,4,IBM Plex Sans Condensed
+NameArray:0,Win,1,IBM Plex Sans Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:InknutAntiqua-ExtraBold
+FamilyName:Inknut Antiqua
+StyleName:ExtraBold
+MenuName:Inknut Antiqua ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Inknut Antiqua ExtraBold
+WritingScript:Roman
+OutlineFileName:\InknutAntiqua ExtraBold.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:275336
+FileModTime:1432080000
+NameArray:0,Mac,4,Inknut Antiqua ExtraBold
+NameArray:0,Win,1,Inknut Antiqua ExtraBold
+NameArray:0,Win,16,Inknut Antiqua
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LetterGothicStd-Bold
+FamilyName:Letter Gothic Std
+StyleName:Bold
+MenuName:Letter Gothic Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Letter Gothic Std Bold
+WritingScript:Roman
+OutlineFileName:\LetterGothicStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:34276
+FileModTime:1523871636
+DesignSize:120
+NameArray:0,Mac,4,Letter Gothic Std Bold
+NameArray:0,Win,1,Letter Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LetterGothicStd
+FamilyName:Letter Gothic Std
+StyleName:Medium
+MenuName:Letter Gothic Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Letter Gothic Std Medium
+WritingScript:Roman
+OutlineFileName:\LetterGothicStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:34480
+FileModTime:1523871636
+DesignSize:120
+NameArray:0,Mac,18,Letter Gothic Std
+NameArray:0,Mac,4,Letter Gothic Std Medium
+NameArray:0,Win,1,Letter Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Menlo-Regular
+FamilyName:Menlo
+StyleName:Regular
+MenuName:Menlo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Menlo Regular
+WritingScript:Roman
+OutlineFileName:\Menlo.ttc
+TTCOffset:40
+DataFormat:sfntData
+hasSVG:no
+FileLength:2134884
+FileModTime:1523871654
+NameArray:0,Mac,4,Menlo Regular
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Menlo-Bold
+FamilyName:Menlo
+StyleName:Bold
+MenuName:Menlo
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Menlo Bold
+WritingScript:Roman
+OutlineFileName:\Menlo.ttc
+TTCOffset:324
+DataFormat:sfntData
+hasSVG:no
+FileLength:2134884
+FileModTime:1523871654
+NameArray:0,Mac,4,Menlo Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Menlo-Italic
+FamilyName:Menlo
+StyleName:Italic
+MenuName:Menlo
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Menlo Italic
+WritingScript:Roman
+OutlineFileName:\Menlo.ttc
+TTCOffset:608
+DataFormat:sfntData
+hasSVG:no
+FileLength:2134884
+FileModTime:1523871654
+NameArray:0,Mac,4,Menlo Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Menlo-BoldItalic
+FamilyName:Menlo
+StyleName:Bold Italic
+MenuName:Menlo
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Menlo Bold Italic
+WritingScript:Roman
+OutlineFileName:\Menlo.ttc
+TTCOffset:892
+DataFormat:sfntData
+hasSVG:no
+FileLength:2134884
+FileModTime:1523871654
+NameArray:0,Mac,4,Menlo Bold Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Regular
+FamilyName:Merriweather
+StyleName:Regular
+MenuName:Merriweather
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Regular
+WritingScript:Roman
+OutlineFileName:\Merriweather Regular.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:156096
+FileModTime:1305072000
+NameArray:0,Mac,4,Merriweather Regular
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NationalCurrency
+FamilyName:National Currency
+StyleName:Regular
+MenuName:National Currency
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:National Currency
+WritingScript:Roman
+OutlineFileName:\NationalCurrency.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:92088
+FileModTime:1360911280
+NameArray:0,Mac,4,National Currency
+NameArray:0,Win,1,National Currency
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SairaExtraCondensed-Black
+FamilyName:Saira ExtraCondensed
+StyleName:Black
+MenuName:Saira ExtraCondensed Black
+StyleBits:0
+WeightClass:900
+WidthClass:2
+AngleClass:0
+FullName:Saira ExtraCondensed Black
+WritingScript:Roman
+OutlineFileName:\SairaExtraCondensed Black.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:96448
+FileModTime:1501507406
+NameArray:0,Mac,4,Saira ExtraCondensed Black
+NameArray:0,Win,1,Saira ExtraCondensed Black
+NameArray:0,Win,16,Saira ExtraCondensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SairaExtraCondensed-ExtraBold
+FamilyName:Saira ExtraCondensed
+StyleName:ExtraBold
+MenuName:Saira ExtraCondensed ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:2
+AngleClass:0
+FullName:Saira ExtraCondensed ExtraBold
+WritingScript:Roman
+OutlineFileName:\SairaExtraCondensed ExtraBold.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:96816
+FileModTime:1501507406
+NameArray:0,Mac,4,Saira ExtraCondensed ExtraBold
+NameArray:0,Win,1,Saira ExtraCondensed ExtraBold
+NameArray:0,Win,16,Saira ExtraCondensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SpaceMono-Bold
+FamilyName:Space Mono
+StyleName:Bold
+MenuName:Space Mono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Space Mono Bold
+WritingScript:Roman
+OutlineFileName:\SpaceMono Bold.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:89020
+FileModTime:1465952400
+NameArray:0,Mac,4,Space Mono Bold
+NameArray:0,Win,1,Space Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SpaceMono-Italic
+FamilyName:Space Mono
+StyleName:Italic
+MenuName:Space Mono
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Space Mono Italic
+WritingScript:Roman
+OutlineFileName:\SpaceMono Italic.TTF
+DataFormat:sfntData
+hasSVG:no
+FileLength:105932
+FileModTime:1465952400
+NameArray:0,Mac,4,Space Mono Italic
+NameArray:0,Win,1,Space Mono
+%EndFont
+
